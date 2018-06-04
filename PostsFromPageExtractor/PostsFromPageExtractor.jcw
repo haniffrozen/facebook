@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>PostsFromPageExtractor</label>
+	</settings>
+	<users>
+		<user>
+			<path>PostsFromPageExtractor.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>PostsFromPageExtractor.jcp</path>
+		</project>
+	</projects>
+</workspace>
